@@ -1,1 +1,1 @@
-test
+man = True
